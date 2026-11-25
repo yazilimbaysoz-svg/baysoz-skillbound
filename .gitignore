@@ -1,0 +1,14 @@
+# Baysöz Labs <baysozlabs@proton.me> — baysoz-skillbound ignore rules
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+dist/
+build/
+*.egg-info/
+.coverage
+htmlcov/
+*.sarif
+.factory-result.json
+uv.lock

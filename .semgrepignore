@@ -1,0 +1,8 @@
+# Baysöz Labs <baysozlabs@proton.me> — semgrep scan exclusions
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+dist/
+build/
+*.egg-info/
